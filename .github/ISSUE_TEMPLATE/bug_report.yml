@@ -1,0 +1,36 @@
+name: Bug 报告
+description: 报告文档或代码仓库中的缺陷
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: actual
+    attributes:
+      label: 现象
+      description: 实际发生了什么，包含报错原文
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望
+      description: 你期望的结果
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: false
+  - type: input
+    id: env
+    attributes:
+      label: 环境
+      description: 仓库 / 分支 / 提交、平台与版本
+    validations:
+      required: false
