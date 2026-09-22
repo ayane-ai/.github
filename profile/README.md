@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ayane · 二次元 AI 数字生命
+# 凌音 · 二次元 AI 数字生命
 
 **Phase 1 / Digital Life —— 让她活起来**
 
