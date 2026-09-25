@@ -21,7 +21,7 @@
 | [ayane-docs](https://github.com/ayane-ai/ayane-docs) | 产品、架构与工程文档 | 进行中 |
 | `ayane-agent-service` | Identity、Memory、Agent Runtime、World Model | 待建立（Phase 1） |
 | `ayane-client` | 基于 NomiKit 的 Desktop / Android / iOS 统一客户端 | 待建立（Phase 1） |
-| `ayane-unity-embodiment` | 独立发布的 Unity 身体产物 | 待建立 |
+| `ayane-embodiment` | 独立发布的 Unity 身体产物 | 待建立 |
 | `ayane-admin-web` | 管理后台 | 待建立 |
 | `ayane-infrastructure` | 部署、Secret、CI/CD、监控 | 待建立 |
 
